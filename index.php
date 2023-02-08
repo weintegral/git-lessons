@@ -3,5 +3,5 @@
 $name = 'gopibabu';
 $place = 'atlanta';
 $country = 'India';
-$company = 'weintegral';
+$company = 'weintegral website';
 $lesson = 'version control';
