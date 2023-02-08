@@ -8,3 +8,4 @@ $lesson = 'version control';
 $experience = '6 years';
 $qualification = 'Masters Program';
 $Mobile = "Yes";
+$birthplace = 'Andhra Pradesh';
